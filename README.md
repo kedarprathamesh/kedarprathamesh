@@ -23,5 +23,5 @@
 ---
 
 📫 **Let's connect**:  
-[LinkedIn](https://linkedin.com/) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/prathamesh-kedar-7365a0303) | [Email](kedarprathamesh768@gmail.com)
 
