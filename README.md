@@ -8,10 +8,11 @@
 ---
 
 ### 🔧 Skills & Tools
-- **Languages:** Python, R (basic), SQL  
+- **Languages:** Python, R (basic), SQL  ,Power BI,
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Tools:** Excel, Jupyter Notebook, Google Sheets  
-- **Learning:** Power BI, scikit-learn, Git  
+- **Learning:**  scikit-learn, Git
+- **Professional Skills:** Data Analysis,Data Cleaning,Data Visualization,Statistics,Presentation and Reporting
 
 ---
 
