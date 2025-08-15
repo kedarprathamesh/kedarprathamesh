@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Pratham Reol
+### 👋 Hi there, I'm Prathamesh Kedar
 
 🎓 I'm a recent Computer Science graduate from Keraleeya Samajam Model College, Dombivili.  
 📊 I'm passionate about **Data Analytics** and **Data Science**, and I'm actively learning tools like **Python**, **Pandas**, **NumPy**, and **SQL**.  
