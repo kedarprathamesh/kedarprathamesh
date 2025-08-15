@@ -1,5 +1,5 @@
-👋 Hi, I'm **Prathamesh Kedar**  
-🎓 Computer Science graduate from *Keraleeya Samajam Model College, Dombivli* Affliated With *University Of Mumbai* 
+###👋 Hi, I'm **Prathamesh Kedar**  
+🎓 Computer Science graduate from *Keraleeya Samajam Model College, Dombivli* Affliated With *University Of Mumbai*  .
 📊 I’m a **Data Analyst** driven to make a meaningful impact in the **Data Analytics** sector  
 💻 Skilled in **Python**, **Pandas**, **NumPy**, and **SQL**, with hands-on experience in data analysis projects  
 📈 Focused on solving real-world problems through **data cleaning**, **visualization**, and **insight generation**  
