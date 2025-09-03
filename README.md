@@ -24,5 +24,5 @@
 ---
 
 📫 **Let's connect**:  
-[LinkedIn](https://www.linkedin.com/in/prathameshkedar2025) | 📧 Reach me at: [kedarprathamesh768@gmail.com](mailto:kedarprathamesh32@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/prathameshkedar2025) | 📧 Reach me at: [kedarprathamesh32@gmail.com](mailto:kedarprathamesh32@gmail.com)
 
