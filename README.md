@@ -2,7 +2,7 @@
 
 🎯 **Aspiring Data Analyst | Python | SQL | Power BI | Excel**  
 
-I transform raw data into actionable insights and interactive dashboards. Passionate about analytics, visualization, and turning complex datasets into business decisions.
+I transform raw data into actionable insights using Python, SQL, Excel, and Power BI. Passionate about analytics, dashboarding, and turning complex datasets into business decisions.
 
 ---
 
@@ -40,13 +40,17 @@ Data Cleaning · Data Wrangling · ETL · Data Transformation · EDA · KPI Trac
 ![McKinsey](https://img.shields.io/badge/-McKinsey-000000?style=flat&logo=mckinsey&logoColor=white) McKinsey Forward Program (Oct 2025)  
 ![Oracle](https://img.shields.io/badge/-Oracle-FF0000?style=flat&logo=oracle&logoColor=white) Oracle Data Science Professional (Sept 2025)  
 ![IBM](https://img.shields.io/badge/-IBM-054ADA?style=flat&logo=ibm&logoColor=white) IBM Data Fundamentals (Sept 2025)  
+
 ---
 
 ## 📫 Contact Me
 📍 Mumbai, India  
-✉️ [kedarprathamesh768@gmail.com]  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/prathameshkedar)  
+✉️ [your.email@example.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
 
 ---
 
-© 2025 Prathamesh | All rights reserved
+© 2025 Pratham | All rights reserved
+
+---
+
