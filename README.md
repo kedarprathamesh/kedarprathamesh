@@ -32,7 +32,7 @@ Data Cleaning · Data Wrangling · ETL · Data Transformation · EDA · KPI Trac
 - Built interactive Excel dashboard tracking KPIs, YoY growth, and customer segments.  
 - Performed data cleaning and transformation using **Power Query** and **SQL**.  
 - Identified top-performing regions and declining areas for data-driven decisions.  
-- ![Sales Dashboard](https://github.com/kedarprathamesh/Sales-Logistics-Performance-Dashboard)
+- ![Sales Dashboard](https://github.com/kedarprathamesh/Sales-Logistics-Performance-Dashboard/blob/main/Sales%20%26%20Logistics%20Performance%20Snapshot.png)
 
 ---
 
