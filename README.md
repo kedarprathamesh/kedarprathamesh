@@ -1,28 +1,53 @@
-👋 Hi, I'm **Prathamesh Kedar**  
-🎓 Computer Science graduate from *Keraleeya Samajam Model College, Dombivli* Affliated With *University Of Mumbai* .
- 📊 I’m a **Data Analyst** driven to make a meaningful impact in the **Data Analytics** sector  
-💻 Skilled in **Python**, **Pandas**, **NumPy**, and **SQL**, with hands-on experience in data analysis projects  
-📈 Focused on solving real-world problems through **data cleaning**, **visualization**, and **insight generation**  
-🤝 Always open to learning, collaborating, and contributing to data-driven decision-making  
+# 👋 Hi, I'm Pratham
+
+🎯 **Aspiring Data Analyst | Python | SQL | Power BI | Excel**  
+
+I transform raw data into actionable insights and interactive dashboards. Passionate about analytics, visualization, and turning complex datasets into business decisions.
 
 ---
 
-### 🔧 Skills & Tools
-- **Languages:** Python, R (basic), SQL  ,Power BI,
-- **Libraries:** Pandas, NumPy
-- **Tools:** Excel, Jupyter Notebook, Google Sheets  
-- **Learning:**  scikit-learn, Git, Matplotlib, Seaborn 
-- **Professional Skills:** Data Analysis,Data Cleaning,Data Visualization,Statistics,Presentation and Reporting
+## 🛠 Skills
+
+**Programming & Tools:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white) 
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C80F?style=flat&logo=power-bi&logoColor=black) 
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+**Data Handling & Analytics:**  
+Data Cleaning · Data Wrangling · ETL · Data Transformation · EDA · KPI Tracking · Dashboard Development · Business Intelligence · Forecasting  
 
 ---
 
-### 📈 What I'm working on:
-- Improving my data analysis skills through small personal datasets  
-- Preparing for data analyst internships  
-- Learning visualization tools like Power BI and Tableau  
+## 🚀 Featured Projects
+
+### 🦈 [Shark Tank Investment Analysis Dashboard](https://tinyurl.com/githubSharkTank)
+- Analyzed 14 seasons (1,274 pitches, 765 deals, $226M+ investments) using **Power BI** and **SQL**.  
+- Key insights: **Mark Cuban** as top investor; **Food & Beverage** as most funded sector.  
+- Visualized trends and viewership peaks using **time-series charts**.  
+- ![Shark Tank Dashboard](https://github.com/kedarprathamesh/Shark-Tank-Analysis/blob/main/Shark%20Tank%20Dashboard%20Snapshot.png) 
+
+### 📊 [Sales & Logistics Performance Dashboard](https://tinyurl.com/Sales-and-Logistics)
+- Built interactive Excel dashboard tracking KPIs, YoY growth, and customer segments.  
+- Performed data cleaning and transformation using **Power Query** and **SQL**.  
+- Identified top-performing regions and declining areas for data-driven decisions.  
+- ![Sales Dashboard](https://github.com/kedarprathamesh/Sales-Logistics-Performance-Dashboard)
 
 ---
 
-📫 **Let's connect**:  
-[LinkedIn](https://www.linkedin.com/in/prathameshkedar2025) | 📧 Reach me at: [kedarprathamesh768@gmail.com](mailto:kedarprathamesh768@gmail.com)
+## 🎓 Certifications
+![McKinsey](https://img.shields.io/badge/-McKinsey-000000?style=flat&logo=mckinsey&logoColor=white) McKinsey Forward Program (Oct 2025)  
+![Oracle](https://img.shields.io/badge/-Oracle-FF0000?style=flat&logo=oracle&logoColor=white) Oracle Data Science Professional (Sept 2025)  
+![IBM](https://img.shields.io/badge/-IBM-054ADA?style=flat&logo=ibm&logoColor=white) IBM Data Fundamentals (Sept 2025)  
 
+---
+
+## 📫 Contact Me
+📍 Mumbai, India  
+✉️ [kedarprathamesh768@gmail.com]  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/prathameshkedar)  
+
+---
+
+© 2025 Prathamesh | All rights reserved
