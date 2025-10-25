@@ -63,4 +63,4 @@ Data Cleaning · Data Wrangling · ETL · Data Transformation · EDA · KPI Trac
 
 ---
 
-© 2025 Pratham | All rights reserved
+© 2025 Prathamesh | All rights reserved
