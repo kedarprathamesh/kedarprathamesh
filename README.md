@@ -3,7 +3,7 @@ GitHub Profile README for Pratham
 Modern theme with royal purple, red, and blue accents
 -->
 
-# 👋 Hi, I'm Pratham
+# 👋 Hi, I'm Prathamesh
 
 🎯 **Aspiring Data Analyst | Python | SQL | Power BI | Excel**
 
