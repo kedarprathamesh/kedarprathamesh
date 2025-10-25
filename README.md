@@ -1,19 +1,24 @@
+<!--
+GitHub Profile README for Pratham
+Modern theme with royal purple, red, and blue accents
+-->
+
 # 👋 Hi, I'm Pratham
 
-🎯 **Aspiring Data Analyst | Python | SQL | Power BI | Excel**  
+🎯 **Aspiring Data Analyst | Python | SQL | Power BI | Excel**
 
-I transform raw data into actionable insights using Python, SQL, Excel, and Power BI. Passionate about analytics, dashboarding, and turning complex datasets into business decisions.
+I transform raw data into actionable insights and interactive dashboards. Passionate about analytics, dashboarding, and turning complex datasets into business decisions.
 
 ---
 
 ## 🛠 Skills
 
 **Programming & Tools:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white) 
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C80F?style=flat&logo=power-bi&logoColor=black) 
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-6A0DAD?style=flat&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-1E90FF?style=flat&logo=mysql&logoColor=white) 
+![Power BI](https://img.shields.io/badge/-Power%20BI-FF4500?style=flat&logo=power-bi&logoColor=black) 
+![Excel](https://img.shields.io/badge/-Excel-4B0082?style=flat&logo=microsoft-excel&logoColor=white) 
+![Tableau](https://img.shields.io/badge/-Tableau-0000FF?style=flat&logo=tableau&logoColor=white)
 
 **Data Handling & Analytics:**  
 Data Cleaning · Data Wrangling · ETL · Data Transformation · EDA · KPI Tracking · Dashboard Development · Business Intelligence · Forecasting  
@@ -37,9 +42,17 @@ Data Cleaning · Data Wrangling · ETL · Data Transformation · EDA · KPI Trac
 ---
 
 ## 🎓 Certifications
-![McKinsey](https://img.shields.io/badge/-McKinsey-000000?style=flat&logo=mckinsey&logoColor=white) McKinsey Forward Program (Oct 2025)  
+![McKinsey](https://img.shields.io/badge/-McKinsey-6A0DAD?style=flat&logo=mckinsey&logoColor=white) McKinsey Forward Program (Oct 2025)  
 ![Oracle](https://img.shields.io/badge/-Oracle-FF0000?style=flat&logo=oracle&logoColor=white) Oracle Data Science Professional (Sept 2025)  
-![IBM](https://img.shields.io/badge/-IBM-054ADA?style=flat&logo=ibm&logoColor=white) IBM Data Fundamentals (Sept 2025)  
+![IBM](https://img.shields.io/badge/-IBM-1E90FF?style=flat&logo=ibm&logoColor=white) IBM Data Fundamentals (Sept 2025)  
+
+---
+
+## 📈 GitHub Stats
+
+![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=kedarprathamesh&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedarprathamesh&layout=compact&theme=radical)  
+
 
 ---
 
@@ -51,6 +64,3 @@ Data Cleaning · Data Wrangling · ETL · Data Transformation · EDA · KPI Trac
 ---
 
 © 2025 Pratham | All rights reserved
-
----
-
