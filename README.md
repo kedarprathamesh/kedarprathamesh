@@ -5,7 +5,7 @@ Modern theme with royal purple, red, and blue accents
 
 # 👋 Hi, I'm Prathamesh
 
-🎯 **Aspiring Data Analyst | Python | SQL | Power BI | Excel**
+🎯 **Aspiring Data Analyst | Python | SQL | Power BI | Excel | Python Libraries(Numpy,Pandas,Matplotlib,Seaborn,Plotly)**
 
 I transform raw data into actionable insights and interactive dashboards. Passionate about analytics, dashboarding, and turning complex datasets into business decisions.
 
