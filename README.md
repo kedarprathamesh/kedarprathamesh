@@ -35,11 +35,14 @@ Data Cleaning · Data Wrangling · ETL · Data Transformation · EDA · KPI Trac
 - Visualized trends and viewership peaks using **time-series charts**.  
 - ![Shark Tank Dashboard](https://github.com/kedarprathamesh/Shark-Tank-Analysis/blob/main/Shark%20Tank%20Dashboard%20Snapshot.png) 
 
-### 📊 [Sales & Logistics Performance Dashboard](https://tinyurl.com/Sales-and-Logistics)
-- Built interactive Excel dashboard tracking KPIs, YoY growth, and customer segments.  
-- Performed data cleaning and transformation using **Power Query** and **SQL**.  
-- Identified top-performing regions and declining areas for data-driven decisions.  
-- ![Sales Dashboard](https://github.com/kedarprathamesh/Sales-Logistics-Performance-Dashboard/blob/main/Sales%20%26%20Logistics%20Performance%20Snapshot.png)
+### 📊 [Digital Insights & Revenue Dashboard](https://tinyurl.com/Sales-and-Logistics)
+* Built an interactive Excel dashboard using a Web Analytics Dataset
+* Showcases key KPIs: Users, Returning Users, Revenue, Transactions, Conversion Rate
+* Includes YOY insights for User Growth, Revenue, Transactions, and Conversion Efficiency
+* Performed data cleaning, validation, sorting, and filtering for accuracy
+* Uses pivot tables, slicers, and dynamic charts for clear, actionable insights
+* Highlights traffic behavior, revenue patterns, and overall performance trends
+- ![Digital Insights and Revenue Dashboard](https://github.com/kedarprathamesh/Digital-Insights-Revenue-Dashboard/blob/main/Data%20Insights%20Snapshot.png)
 
 ---
 
