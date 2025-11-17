@@ -63,7 +63,7 @@ Data Cleaning · Data Wrangling · ETL · Data Transformation · EDA · KPI Trac
 
 ## 📫 Contact Me
 📍 Mumbai, India  
-✉️ [Email ID](kedarprathamesh768@gmail.com)
+✉️ [kedarprathamesh768@gmail.com](mailto:kedarprathamesh768@gmail.com)
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/prathameshkedar)  
 
 ---
