@@ -53,14 +53,6 @@ Data Cleaning · Data Wrangling · ETL · Data Transformation · EDA · KPI Trac
 
 ---
 
-## 📈 GitHub Stats
-
-![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=kedarprathamesh&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedarprathamesh&layout=compact&theme=radical)  
-
-
----
-
 ## 📫 Contact Me
 📍 Mumbai, India  
 <a href=mailto:kedarprathamesh768@gmail.com>✉️ kedarprathamesh768@gmail.com </a>
